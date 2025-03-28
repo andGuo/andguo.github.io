@@ -1,0 +1,4 @@
+baseURL = 'https://andguo.github.io/'
+languageCode = 'en-us'
+title = 'andGuo'
+theme = "lynx"
